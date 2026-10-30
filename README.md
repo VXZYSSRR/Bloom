@@ -16,7 +16,6 @@ No account. No upload. No install. Files go straight from one device to another.
 
 </div>
 
-\---
 
 ## Table of contents
 
