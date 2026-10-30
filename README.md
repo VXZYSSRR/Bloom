@@ -9,11 +9,6 @@
 **Nearby file sharing, right in your browser.**
 No account. No upload. No install. Files go straight from one device to another.
 
-!\[Version](https://img.shields.io/badge/version-1.0.2-b8b8b8?style=flat-square)
-!\[Single file](https://img.shields.io/badge/single%20file-HTML-111111?style=flat-square)
-!\[No dependencies](https://img.shields.io/badge/dependencies-none-111111?style=flat-square)
-!\[WebRTC](https://img.shields.io/badge/transport-WebRTC-111111?style=flat-square)
-!\[License](https://img.shields.io/badge/license-add%20yours-111111?style=flat-square)
 
 <!-- Screenshot / GIF of the Home screen goes here: -->
 
