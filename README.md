@@ -2,7 +2,7 @@
 
 <!-- Put your logo at assets/logo.png (the flower PNG works great here) -->
 
-<img src="assets/logo.png" alt="Bloom logo" width="140" height="140">
+<img src="logo.png" alt="Bloom logo" width="140" height="140">
 
 # Bloom
 
