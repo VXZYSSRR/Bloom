@@ -4,7 +4,7 @@
 
 <img src="logo.png" alt="Bloom logo" width="140" height="140">
 
-# Bloom
+# Bloom.
 
 **Nearby file sharing, right in your browser.**
 No account. No upload. No install. Files go straight from one device to another.
