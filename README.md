@@ -397,9 +397,7 @@ Pull requests are welcome too. Keep Bloom a single, dependency-free file where y
 
 ## License
 
-<!-- Choose a license and add a LICENSE file, for example MIT. -->
-
-Add your license here.
+Bloom is open source under the [MIT License](LICENSE). You are free to use, copy, modify and share it, as long as the copyright notice stays with it.
 
 \---
 
